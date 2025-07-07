@@ -1,0 +1,15 @@
+kz\tandaApplication\SpringApplication\dto\AuthDto.class
+kz\tandaApplication\SpringApplication\security\UserPrincipal.class
+kz\tandaApplication\SpringApplication\repository\TestRepository.class
+kz\tandaApplication\SpringApplication\configuration\TwilioConfiguration.class
+kz\tandaApplication\SpringApplication\service\AppUserDetailsService.class
+kz\tandaApplication\SpringApplication\entity\TestPersona.class
+kz\tandaApplication\SpringApplication\Application.class
+kz\tandaApplication\SpringApplication\dto\TestDtoForRequestTwilio.class
+kz\tandaApplication\SpringApplication\service\AuthService.class
+kz\tandaApplication\SpringApplication\dto\OtpStatus.class
+kz\tandaApplication\SpringApplication\controller\TestController.class
+kz\tandaApplication\SpringApplication\dto\Role.class
+kz\tandaApplication\SpringApplication\configuration\AuthorizationConfiguration.class
+kz\tandaApplication\SpringApplication\dto\TestDtoForResponseTwilio.class
+kz\tandaApplication\SpringApplication\service\TwilioOTPService.class

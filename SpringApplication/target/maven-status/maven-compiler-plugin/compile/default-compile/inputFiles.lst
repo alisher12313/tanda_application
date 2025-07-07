@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\SkillBox (1)\SpringApplication\src\main\java\kz\tandaApplication\SpringApplication\service\AuthService.java
+C:\Users\user\Desktop\SkillBox (1)\SpringApplication\src\main\java\kz\tandaApplication\SpringApplication\dto\Role.java
+C:\Users\user\Desktop\SkillBox (1)\SpringApplication\src\main\java\kz\tandaApplication\SpringApplication\dto\TestDtoForResponseTwilio.java
+C:\Users\user\Desktop\SkillBox (1)\SpringApplication\src\main\java\kz\tandaApplication\SpringApplication\entity\TestPersona.java
+C:\Users\user\Desktop\SkillBox (1)\SpringApplication\src\main\java\kz\tandaApplication\SpringApplication\service\TwilioOTPService.java
+C:\Users\user\Desktop\SkillBox (1)\SpringApplication\src\main\java\kz\tandaApplication\SpringApplication\Application.java
+C:\Users\user\Desktop\SkillBox (1)\SpringApplication\src\main\java\kz\tandaApplication\SpringApplication\configuration\TwilioConfiguration.java
+C:\Users\user\Desktop\SkillBox (1)\SpringApplication\src\main\java\kz\tandaApplication\SpringApplication\controller\TestController.java
+C:\Users\user\Desktop\SkillBox (1)\SpringApplication\src\main\java\kz\tandaApplication\SpringApplication\dto\AuthDto.java
+C:\Users\user\Desktop\SkillBox (1)\SpringApplication\src\main\java\kz\tandaApplication\SpringApplication\repository\TestRepository.java
+C:\Users\user\Desktop\SkillBox (1)\SpringApplication\src\main\java\kz\tandaApplication\SpringApplication\dto\TestDtoForRequestTwilio.java
+C:\Users\user\Desktop\SkillBox (1)\SpringApplication\src\main\java\kz\tandaApplication\SpringApplication\dto\OtpStatus.java
+C:\Users\user\Desktop\SkillBox (1)\SpringApplication\src\main\java\kz\tandaApplication\SpringApplication\configuration\AuthorizationConfiguration.java
+C:\Users\user\Desktop\SkillBox (1)\SpringApplication\src\main\java\kz\tandaApplication\SpringApplication\security\UserPrincipal.java
+C:\Users\user\Desktop\SkillBox (1)\SpringApplication\src\main\java\kz\tandaApplication\SpringApplication\service\AppUserDetailsService.java
