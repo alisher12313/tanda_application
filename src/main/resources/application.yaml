@@ -14,3 +14,8 @@ spring:
       hibernate:
         format_sql: true
         dialect: org.hibernate.dialect.MySQL8Dialect
+
+twilio:
+  account_sid: ACfd830c6a1884cab59fb7ae88deb77b9e
+  auth_token: 7bab2af28a38bc2fa27e7629efdd5278
+  trial_number: +19592712386
